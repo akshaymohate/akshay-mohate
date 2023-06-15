@@ -1,4 +1,4 @@
-![logo](https://github.com/akshaymohate/akshay-mohate)
+![logo](https://github.com/akshaymohate/akshay-mohate/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Mohate</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
 
