@@ -1,3 +1,4 @@
+![logo](https://github.com/akshaymohate/akshay-mohate)
 <h1 align="center">Hi 👋, I'm Akshay Mohate</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
 
